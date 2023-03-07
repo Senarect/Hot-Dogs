@@ -1,3 +1,4 @@
 # Hot-Dogs
 Run the script and see the result
-![](https://tlk-infra-front.azureedge.net/portal-static/images/wsdm2023/tennis/x2/image.webp![image](https://user-images.githubusercontent.com/81847566/223433464-b7bebf22-1f87-4f92-a69e-24b6841f9bce.png "Пример изображения из датасета")
+![Текст с описанием картинки]([https://picsum.photos/800/600](https://tlk-infra-front.azureedge.net/portal-static/images/wsdm2023/tennis/x2/image.webp)![image](https://user-images.githubusercontent.com/81847566/223433826-c3e61c19-8427-4e56-ba35-8b682f90676a.png)
+)
